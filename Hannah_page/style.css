@@ -1,0 +1,21 @@
+
+html{
+background: url(./seattle.jpg);
+background-size: cover;
+background-position: center;
+font-size: 22px;
+color: #064A44;
+font-family: "Garamond", "Baskerville", "Baskerville Old Face", "Hoefler Text", "Times New Roman", "serif";
+font-weight: bold;
+text-align: center;
+}
+
+
+h1 {font-size: 36px;
+	color:#009688;
+ }
+
+h2 {font-size:33px;
+	font-color:#05423C;
+}
+
